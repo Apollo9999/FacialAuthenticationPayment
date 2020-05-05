@@ -1,7 +1,7 @@
 # FacialAuthenticationPayment
 
 
-Facial recognition payment is a digital payment solution that utilizes facial recognition to authenticate the digital customers. It will be seamlessly integrated with country's leading digital wallet solutions.The proposed Universal platform consists ofusing Face Recognition for P2P transfer ,Shopping  at yourfavourite Restaurants or  Coffee Shops or Shopping Mall or Salon. Our project  platform unites all payment mode like Wallets Paytm , Amazon Pay , UPI payments  PhonePe, GooglePay , NFC  Visa PayWave, Mastercard Contactless  or even Banks
+Facial recognition payment is a digital payment solution that utilizes facial recognition to authenticate the digital customers. It will be seamlessly integrated with country's leading digital wallet solutions.The proposed Universal platform consists ofusing Face Recognition for P2P transfer ,Shopping  at yourfavourite Restaurants or  Coffee Shops or Shopping Malls etc.
 
 Advantages of the solution
 Face ID stage for authentication of person.
@@ -12,4 +12,4 @@ Liveness detection to remove any possibility of the subject being an image by do
 
 SOLUTION
 
-Universal platform using Face Recognition for P2P transfer ,Shopping  at your favorite Coffee Shops or Shopping Mall or Salon. This platform unites all payment mode like Wallets Paytm , Amazon Pay , UPI(PhonePe,GooglePay) , NFC(Visa PayWave, Mastercard Contactless) or even Banks.
+Universal platform using Face Recognition for P2P transfer ,Shopping  at your favorite Coffee Shops or Shopping Mall or Salon. This platform unites all payment mode like Wallets Paytm , Amazon Pay , UPI PhonePe,GooglePay , NFC Visa PayWave, Mastercard Contactless or even Banks.
